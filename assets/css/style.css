@@ -12618,7 +12618,7 @@ button:hover .button-text {
 /* 設置您的指定區塊的樣式 */
 .content-section {
   width: 80%; /* 範例寬度，會隨著螢幕縮放 */
-  height: 100px; /* 範例高度 */
+  height: 50px; /* 範例高度 */
   border: 2px dashed #ccc;
   margin: 20px auto; /* 讓整個區塊自己在頁面置中 */
 
